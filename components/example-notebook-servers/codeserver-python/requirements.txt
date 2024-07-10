@@ -1,3 +1,4 @@
 kfp==1.0.4
 kfp-server-api==1.0.4
 kfserving==0.4.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
